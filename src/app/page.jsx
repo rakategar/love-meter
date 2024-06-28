@@ -77,6 +77,7 @@ export default function Home() {
             </div>
           </div>
         </div>
+      <p className='fixed bottom-0 p-4'>Copyright © 2024 - All right reserved by Raka COR</p>
       </div>
     </div>
   );

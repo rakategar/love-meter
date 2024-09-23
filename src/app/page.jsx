@@ -39,7 +39,7 @@ export default function Home() {
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Berapa Persen Cintamu ?</h2>
-            <p>Masukkan Namamu dan Nama Pasanganmu</p>
+            <p>Masukkan Namamu dan Nama Pasanganmu !</p>
             {!calculated ? (
               <div className='flex flex-row gap-2 items-center'>
                 <div className="mb-4 text-sm">
